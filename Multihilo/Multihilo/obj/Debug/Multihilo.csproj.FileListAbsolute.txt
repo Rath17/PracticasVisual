@@ -1,0 +1,11 @@
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\bin\Debug\Multihilo.exe.config
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\bin\Debug\Multihilo.exe
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\bin\Debug\Multihilo.pdb
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.csproj.AssemblyReference.cache
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.Form1.resources
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.Properties.Resources.resources
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.csproj.GenerateResource.cache
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.csproj.CoreCompileInputs.cache
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.exe
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.pdb
+C:\Users\ALEx\Desktop\Multihilo\Multihilo\obj\Debug\Multihilo.exe.config
